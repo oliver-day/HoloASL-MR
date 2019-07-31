@@ -1,0 +1,8 @@
+unity_project/HoloASL/Library
+unity_project/HoloASL/UnityPackageManager/
+unity_project/HoloASL/.vs/
+unity_project/HoloASL/App
+unity_project/HoloASL/Temp
+unity_project/HoloASL/UWP
+azure_bot/HoloASL/obj/Release
+azure_bot/HoloASL/obj/Debug
